@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* __Excellent communication skills__
+* _HTML, CSS and JS_
+* Ardent _reader_ and a LOVER of __GOD__
