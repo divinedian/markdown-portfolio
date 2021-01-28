@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Singing
+2. Reading
+3. Solving Problems
+    1. Mathematics
+    2. Algorithm
